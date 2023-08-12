@@ -1,0 +1,3 @@
+C:/Users/Helios/Desktop/Proyecto/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/Helios/Desktop/Proyecto/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/Helios/Desktop/Proyecto/build/pioasm/CMakeFiles/rebuild_cache.dir
